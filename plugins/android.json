@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "in.th.doodee"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "in.th.doodee"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "in.th.doodee"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "in.th.doodee"
+    }
+  }
+}
